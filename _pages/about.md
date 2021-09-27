@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "About me"
-excerpt: "About me"
+excerpt: "Archit Rathore's Homepage"
 author_profile: true
 redirect_from: 
   - /about/
