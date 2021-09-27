@@ -15,4 +15,16 @@ I am working towards understanding ML models through the lens of Computational T
 
 Resume
 ---
-[PDF](files/main.pdf)
+[PDF](files/main.pdf) | [Web](/resume)
+
+Publications
+---
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
+Talks
+---
+  <ul>{% for post in site.talks %}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul>
