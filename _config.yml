@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Archit Rathore / Homepage"
+title                    : "Archit Rathore"
 title_separator          : "-"
 name                     : &name "Archit Rathore"
 description              : &description "CS Ph.D. student at University of Utah"

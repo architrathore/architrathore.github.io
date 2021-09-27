@@ -1,0 +1,11 @@
+---
+title: "VERB: Visualizing and Interpreting Bias Mitigation Techniques for Word Representations"
+collection: publications
+permalink: /publication/verb
+excerpt: 'Word vector embeddings have been shown to contain and amplify biases in data they are extracted from. Consequently, many techniques have been proposed to identify, mitigate, and attenuate these biases in word representations. In this paper, we utilize interactive visualization to increase the interpretability and accessibility of a collection of state-of-the-art debiasing techniques...'
+date: 2021-09-13
+venue: 'Under review at TVCG'
+paperurl: 'https://arxiv.org/abs/2104.02797'
+citation: 'A. Rathore, S. Dev, J.M. Philips , S. Srikumar, et al.'
+---
+Word vector embeddings have been shown to contain and amplify biases in data they are extracted from. Consequently, many techniques have been proposed to identify, mitigate, and attenuate these biases in word representations. In this paper, we utilize interactive visualization to increase the interpretability and accessibility of a collection of state-of-the-art debiasing techniques. To aid this, we present Visualization of Embedding Representations for deBiasing system ("VERB"), an open-source web-based visualization tool that helps the users gain a technical understanding and visual intuition of the inner workings of debiasing techniques, with a focus on their geometric properties. In particular, VERB offers easy-to-follow use cases in exploring the effects of these debiasing techniques on the geometry of high-dimensional word vectors. To help understand how various debiasing techniques change the underlying geometry, VERB decomposes each technique into interpretable sequences of primitive transformations and highlights their effect on the word vectors using dimensionality reduction and interactive visual exploration. VERB is designed to target natural language processing (NLP) practitioners who are designing decision-making systems on top of word embeddings, and also researchers working with fairness and ethics of machine learning systems in NLP. It can also serve as a visual medium for education, which helps an NLP novice to understand and mitigate biases in word embeddings. 
